@@ -1,2 +1,5 @@
-# cTutorials
-This is where the source code for my C Tutorials will be stored. It's intended for easy access.
+# Brother Yuri's Franciscan C Tutorials
+So, for about a month now, I have been working on some new tutorials on my substack. I'm enjoying he writing but I am still having a little trouble with the sechduling thing. I started off gungho, burned up a little and someone told me that this kind of information will not be chaning any time soon so it's not like I have to write every single day. My apologies, good buddy, but I need to try and force that issue, even if it's only once a week, I have to get back to my schedule. :)
+
+## The Real Point
+Alright. I babbled about myself and what the point to this repository is. And I'm sure there are millions of these kinds of repositories all over the bloody internet. I'm in hopes that mine is different. The actual tutorials are located at [The Friar of the Forsaken](https://brotheryuri.substack.com/). I pray that you all find these tutorials interesting and useful, even helpful. They are all intended for Windows 10+. I know, I know. But, Bro. Yuri, I thought you were such a Linux buff...? I learned the hard way that a lot has changed since 1996 in the Linux world and I don't like. Some do, I don't. So I'm going with the next best thing for me to Mac/OS 11.
